@@ -1,0 +1,31 @@
+{
+  "name": "rizzo-assets",
+  "version": "0.1.0",
+  "description": "Contains all of the assets for rizzo",
+  "main": "lib/index.js",
+  "bin": {
+    "webpack": "./bin/rizzo"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lonelyplanet/rizzo-assets.git"
+  },
+  "keywords": [
+    "rizzo",
+    "assets",
+    "javascript",
+    "sass"
+  ],
+  "author": "Lonely Planet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lonelyplanet/rizzo-assets/issues"
+  },
+  "homepage": "https://github.com/lonelyplanet/rizzo-assets",
+  "dependencies": {
+    "es6-module-loader": "^0.10.0"
+  }
+}
